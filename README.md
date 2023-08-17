@@ -8,9 +8,9 @@ In the second module (in the [README_DAY_TWO](./README_DAY_TWO.md) file), you wi
 
 ## Introduction
 
-In this project, you will build an application to show the NASA photo of the day. You will start from scratch and build the entire app. You don't have any design specs to follow for this project, so start by building a basic wireframe first. Make the wireframe simple initially since you don't know what data you'll get back from NASA. 
+In this project, you will build an application to show the NASA photo of the day. You will start from scratch and build the entire app. You don't have any design specs to follow for this project, so start by building a basic wireframe first. Make the wireframe simple initially since you don't know what data you'll get back from NASA.
 
-When you do get the data back, there may be more or less than you expected, so your design plans may change. That's totally fine and very normal in the real world. Just make the proper adjustments and move forward! 
+When you do get the data back, there may be more or less than you expected, so your design plans may change. That's totally fine and very normal in the real world. Just make the proper adjustments and move forward!
 
 This is a really fun project, and one to show your family and friends when you've finished. Have some fun with it!
 
@@ -18,12 +18,12 @@ This is a really fun project, and one to show your family and friends when you'v
 
 ### Task 1: Setup
 
-- [ ] Create a forked copy of this project.
-- [ ] Clone your OWN version of the repository in your terminal
-- [ ] Download project dependencies by running `npm install`
-- [ ] Start up the app using `npm run dev`
-- [ ] Implement the project on the `main` branch, committing changes regularly.
-- [ ] Push commits: `git push origin main`.
+- [x] Create a forked copy of this project.
+- [x] Clone your OWN version of the repository in your terminal
+- [x] Download project dependencies by running `npm install`
+- [x] Start up the app using `npm run dev`
+- [x] Implement the project on the `main` branch, committing changes regularly.
+- [x] Push commits: `git push origin main`.
 
 ### Task 2: Planning
 
