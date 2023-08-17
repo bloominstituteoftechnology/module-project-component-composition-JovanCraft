@@ -84,7 +84,7 @@ This is a really fun project, and one to show your family and friends when you'v
 
 ## Submission Format
 
-- [ ] Submit a link to your github repo in your learning platform.
+- [x] Submit a link to your github repo in your learning platform.
 
 -----
 
