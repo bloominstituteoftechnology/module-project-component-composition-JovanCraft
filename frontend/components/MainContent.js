@@ -39,7 +39,12 @@ const MainContent = () => {
     return (
     <section>
       <div className='card'>
-        <h2>{photo.title}</h2>
+        <h2 className='title'>{photo.title}</h2>
+        <p>{photo.explanation}</p>
+        <figure>
+            <img src={photo.url}/>
+            <figcaption className='caption'>This beautiful pic was taken on {photo.date}</figcaption>
+        </figure>
       </div>
     </section>
     )
