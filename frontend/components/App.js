@@ -37,7 +37,7 @@ function App (){
   }
   return (
     <section>
-      <Header />
+    <Header />
 
       <Card
         title={photo.title}
@@ -47,8 +47,8 @@ function App (){
       />
 
       <Footer />
-    </section>
 
+    </section>
   )
 }
 
