@@ -1,4 +1,5 @@
 import React from 'react'
+import Figure from './Figure'
 
 
 const Card = ({ title, text, url, date}) => {
@@ -6,10 +7,10 @@ const Card = ({ title, text, url, date}) => {
     <div className='card'>
          <h2 className='title'>{title}</h2>
          <p>{text}</p>
-         <figure>
-             <img src={url}/>
-             <figcaption className='caption'>This beautiful pic was taken on {date}</figcaption>
-         </figure>
+         <Figure
+         url={url}
+         date={date}
+         />
        </div>
     )
 }
